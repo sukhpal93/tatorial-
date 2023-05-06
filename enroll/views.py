@@ -10,4 +10,5 @@ def home1(request):
     return render(request,'enroll/main.html')
 
 
+
 # Create your views here.
